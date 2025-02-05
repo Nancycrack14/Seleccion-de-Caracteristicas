@@ -11,6 +11,6 @@ un modelo que pueda predecir la calidad del vino en función de las característ
 
 - ## 📂 Archivos
 
-- **`wine_quality.csv`**: Conjunto de datos que contiene información sobre la calidad del vino.
+- **`A1.4 Vino Tinto.csv`**: Conjunto de datos que contiene información sobre la calidad del vino.
 - **`tarea_modelo.py`**: Script con el código para realizar la selección de características y evaluación de modelos.
 - **`README.md`**: Este archivo de documentación.
