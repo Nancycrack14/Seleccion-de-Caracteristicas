@@ -15,3 +15,7 @@ un modelo que pueda predecir la calidad del vino en función de las característ
 - **`SeleccionC.ipynb`**: Script con el código para realizar la selección de características y evaluación de modelos.
 - **`SeleccionC.html`**: HTML del codigo 
 - **`README.md`**: Este archivo de documentación.
+
+**[-Ver HTML](SeleccionC.html)**    
+**[-Descargar jupyter notebook](SeleccionC.ipynb)**  
+**[-Descargar base de datos](A1.4_Vino_Tinto.csv)**  
