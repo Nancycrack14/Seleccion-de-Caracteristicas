@@ -18,4 +18,4 @@ un modelo que pueda predecir la calidad del vino en función de las característ
 
 **[-Ver HTML](SeleccionC.html)**    
 **[-Descargar jupyter notebook](SeleccionC.ipynb)**  
-**[-Descargar base de datos](A1.4_Vino_Tinto.csv)**  
+**[-Descargar base de datos](A1.4VinoTinto.csv)**  
