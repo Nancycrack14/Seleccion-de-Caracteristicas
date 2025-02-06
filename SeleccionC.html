@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>A1_4_600877</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>A1_4_600877 (1)</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7666,7 +7666,6 @@ a.anchor-link {
 <span class="n">model</span> <span class="o">=</span> <span class="n">LinearRegression</span><span class="p">()</span>
 
 <span class="c1"># Despues realizaremos la selección hacia adelante</span>
-<span class="c1"># Use SFS instead of sf to call SequentialFeatureSelector</span>
 <span class="n">sf</span> <span class="o">=</span> <span class="n">SFS</span><span class="p">(</span><span class="n">model</span><span class="p">,</span><span class="n">k_features</span><span class="o">=</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">8</span><span class="p">),</span><span class="n">forward</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span><span class="n">floating</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span><span class="n">scoring</span><span class="o">=</span><span class="s1">'r2'</span><span class="p">,</span><span class="n">cv</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
   <span class="c1"># Entre 2 y 8 caracteristicas  #Hacia adelante   #que no sea flotante    #Se usa R cuadrada como métrica</span>
 
